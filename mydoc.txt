@@ -7,3 +7,7 @@ pulling of file
 then
 cloning 
 copy then paste the https...
+
+cloning makes a duplicate of repository
+so ls in linux
+show repository under repository
