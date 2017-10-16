@@ -1,3 +1,7 @@
 my new git code testing 
 my latest new doc
+we have done pushing
+
+pulling of file
+
 
