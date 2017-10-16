@@ -4,4 +4,6 @@ we have done pushing
 
 pulling of file
 
-
+then
+cloning 
+copy then paste the https...
